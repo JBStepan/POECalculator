@@ -1,0 +1,10 @@
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\bin\Debug\POECalculator2.exe.config
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\bin\Debug\POECalculator2.exe
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\bin\Debug\POECalculator2.pdb
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.csprojAssemblyReference.cache
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.Properties.Resources.resources
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.csproj.GenerateResource.cache
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.csproj.CoreCompileInputs.cache
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.exe
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.pdb
+C:\Users\wayne\source\repos\POECalculator\POECalculator2\obj\Debug\POECalculator2.MainMenu.resources
